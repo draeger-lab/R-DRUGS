@@ -5,6 +5,8 @@
 [![License (MIT)](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](http://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fbioinformatics%2Fbtad437-blue.svg?style=plastic)](https://doi.org/10.20944/preprints202210.0223.v2)
 
+<img align="right" src="R-DRUGS_pipeline.png" alt="drawing" width="200"/>
+
 - The scripts are numbered according to their order of execution. 
 - We used jupyter notebooks and matlab scripts. 
 - Influenza was used as an example. However, all other viruses were processed, evaluated, and analyzed in the same way. 
