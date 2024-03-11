@@ -15,4 +15,5 @@
 ___________________________________________________________________________________________________________
 
 ### Licence and citation?
-This project is licensed under the terms of the MIT license. The R-DRUGS pipeline is described in this article: https://doi.org/10.20944/preprints202210.0223.v2
+This project is licensed under the terms of the MIT license. 
+The R-DRUGS pipeline is described in this article: https://doi.org/10.20944/preprints202210.0223.v2
