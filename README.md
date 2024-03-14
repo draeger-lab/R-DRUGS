@@ -10,7 +10,6 @@
 - The scripts are numbered according to their order of execution. 
 - Influenza was used as an example. However, all other viruses were processed, evaluated, and analyzed in the same way. 
 - For the CoreModels and CoreReactions, only a small subset of files were uploaded due to storage space reasons. The remaining files can be generated accordingly using the provided code. 
-- The matlab models are uploaded as compressed files.
 
 #### To convert hierarchical models defined with the Hierarchical Model Composition package into their "flattened" versions use the script within the `flatteningScript` directory. 
 ___________________________________________________________________________________________________________
